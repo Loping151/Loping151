@@ -1,7 +1,11 @@
 I am Loping151.
 
-An undergraduate student studing Computer Vision, and is interested in AI applications.
+An undergraduate student studying Computer Vision, and is interested in AI applications.
 
-I support open source and do not like Apple Inc.
+I developed my own [website](https://loping151.com) for fun. Welcome.
 
-My email: wangkailing151@gmail.com (as long as this account is alive), wkl@loping151.com (as long as the [website](https://loping151.com) is available) or wangkailing151@sjtu.edu.cn(before 2025.6).
+I support open-source or dev-friendly products, i.e. Android, Linux, SteamDeck, JingPad, and Mistral... 
+
+I am not a fan of Apple unless they open-source iOS one day.
+
+My email: wangkailing151@gmail.com (as long as this account is alive), wkl@loping151.com (as long as the [website](https://loping151.com) is available) or wangkailing151@sjtu.edu.cn (before 2025.6 as I graduate).
